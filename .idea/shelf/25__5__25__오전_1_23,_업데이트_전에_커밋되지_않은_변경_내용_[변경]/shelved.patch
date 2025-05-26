@@ -1,0 +1,72 @@
+Index: .idea/modules/Baesh.main.iml
+===================================================================
+diff --git a/.idea/modules/Baesh.main.iml b/.idea/modules/Baesh.main.iml
+deleted file mode 100644
+--- a/.idea/modules/Baesh.main.iml	(revision af92d65f31603cbcb4ee53cccef23e6b80741c34)
++++ /dev/null	(revision af92d65f31603cbcb4ee53cccef23e6b80741c34)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module version="4">
+-  <component name="AdditionalModuleElements">
+-    <content url="file://$MODULE_DIR$/../../build/generated/sources/annotationProcessor/java/main">
+-      <sourceFolder url="file://$MODULE_DIR$/../../build/generated/sources/annotationProcessor/java/main" isTestSource="false" generated="true" />
+-    </content>
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"8cdf2b99-4b05-463f-a29b-c71f3b98987a\" name=\"변경\" comment=\"com\" />\n    <list id=\"e3025c28-3a03-423c-8e5a-8adaccea692a\" name=\"새 변경 목록\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"Baesh\" type=\"f1a62948:ProjectNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;Leecj0402&quot;\n  }\n}</component>\n  <component name=\"GithubDefaultAccount\">\n    <option name=\"defaultAccountId\" value=\"bfa12533-ac3a-4721-9e72-75c714c256b1\" />\n  </component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://Leecj0402@github.com/Leecj0402/BAESHAPI.git&quot;,\n    &quot;accountId&quot;: &quot;bfa12533-ac3a-4721-9e72-75c714c256b1&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2xXw6I5F9lqqhowTlj216PZFZmn\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"git-widget-placeholder\": \"main 리베이스 중\",\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\"\n  }\n}]]></component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\n      <changelist id=\"8cdf2b99-4b05-463f-a29b-c71f3b98987a\" name=\"변경\" comment=\"\" />\n      <changelist id=\"e3025c28-3a03-423c-8e5a-8adaccea692a\" name=\"새 변경 목록\" comment=\"\" />\n      <created>1748097549068</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1748097549068</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision af92d65f31603cbcb4ee53cccef23e6b80741c34)
++++ b/.idea/workspace.xml	(date 1748103692367)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8cdf2b99-4b05-463f-a29b-c71f3b98987a" name="변경" comment="com" />
++    <list default="true" id="8cdf2b99-4b05-463f-a29b-c71f3b98987a" name="변경" comment="com">
++      <change beforePath="$PROJECT_DIR$/.idea/modules/Baesh.main.iml" beforeDir="false" />
++    </list>
+     <list id="e3025c28-3a03-423c-8e5a-8adaccea692a" name="새 변경 목록" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -64,7 +66,7 @@
+     "ModuleVcsDetector.initialDetectionPerformed": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "main 리베이스 중",
++    "git-widget-placeholder": "main",
+     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+   }
+ }]]></component>
+@@ -77,6 +79,15 @@
+       <option name="presentableId" value="Default" />
+       <updated>1748097549068</updated>
+     </task>
++    <task id="LOCAL-00001" summary="com">
++      <option name="closed" value="true" />
++      <created>1748103499297</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1748103499297</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -90,4 +101,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="com" />
++    <option name="LAST_COMMIT_MESSAGE" value="com" />
++  </component>
+ </project>
+\ No newline at end of file
